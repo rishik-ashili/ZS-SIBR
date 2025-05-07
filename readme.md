@@ -64,12 +64,12 @@ Click Clear All to reset the sketchpad and results.
 
 **[![WATCH THE WORKING VIDEO ]](https://drive.google.com/file/d/1PIPrrPaiHibYR5gFY1a77DMQBK152fNI/view?usp=sharing)**
 
-<video width="640" height="480" controls>
-  <source
-    src="https://drive.google.com/uc?export=download&id=1PIPrrPaiHibYR5gFY1a77DMQBK152fNI"
-    type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<!-- 1) Replace FILE_ID with your actual ID -->
+<iframe
+  src="https://drive.google.com/file/d/1PIPrrPaiHibYR5gFY1a77DMQBK152fNI/preview"
+  width="640" height="480" allow="autoplay">
+</iframe>
+
 
 
 
