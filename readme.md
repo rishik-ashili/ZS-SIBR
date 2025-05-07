@@ -63,6 +63,10 @@ Click Submit Sketch to retrieve the top-5 matching images.
 Click Clear All to reset the sketchpad and results.
 
 **[![WATCH THE WORKING VIDEO ]](https://drive.google.com/file/d/1PIPrrPaiHibYR5gFY1a77DMQBK152fNI/view?usp=sharing)**
+<iframe
+  src="https://drive.google.com/file/d/1PIPrrPaiHibYR5gFY1a77DMQBK152fNI/preview"
+  width="640" height="480" allow="autoplay">
+</iframe>
 
 
 📁 Project Structure
