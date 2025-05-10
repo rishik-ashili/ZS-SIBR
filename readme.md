@@ -62,19 +62,6 @@ Click Submit Sketch to retrieve the top-5 matching images.
 
 Click Clear All to reset the sketchpad and results.
 
-**[![WATCH THE WORKING VIDEO ]](https://drive.google.com/file/d/1PIPrrPaiHibYR5gFY1a77DMQBK152fNI/view?usp=sharing)**
-
-<!-- 1) Replace FILE_ID with your actual ID -->
-<iframe
-  src="https://drive.google.com/file/d/1PIPrrPaiHibYR5gFY1a77DMQBK152fNI/preview"
-  width="640" height="480" allow="autoplay">
-</iframe>
-
-
-
-
-📁 Project Structure
-
 
 https://github.com/user-attachments/assets/b2a9ae04-d727-42ff-9d7d-260daf136a57
 
@@ -82,6 +69,7 @@ https://github.com/user-attachments/assets/b2a9ae04-d727-42ff-9d7d-260daf136a57
 
 https://github.com/user-attachments/assets/dbcac828-576d-44e1-a5ee-494335804416
 
+📁 Project Structure
 
 ├── app.py           # Main Gradio application
 ├── options.py       # Command-line options parser
