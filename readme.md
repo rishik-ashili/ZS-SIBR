@@ -75,6 +75,14 @@ Click Clear All to reset the sketchpad and results.
 
 📁 Project Structure
 
+
+https://github.com/user-attachments/assets/b2a9ae04-d727-42ff-9d7d-260daf136a57
+
+
+
+https://github.com/user-attachments/assets/dbcac828-576d-44e1-a5ee-494335804416
+
+
 ├── app.py           # Main Gradio application
 ├── options.py       # Command-line options parser
 ├── model/           # ZSE-SBIR model implementation
