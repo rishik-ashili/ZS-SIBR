@@ -26,7 +26,7 @@ You must download and arrange the Sketchy dataset folder structure accordingly b
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo.git
+git clone [https://github.com/yourusername/your-repo.git](https://github.com/rishik-ashili/ZS-SIBR)
 cd your-repo
 
 Install dependencies:
